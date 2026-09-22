@@ -65,7 +65,7 @@ nav p:hover {
 }
 
 section {
-    background-color: red;
+    /* background-color: red; */
     height: 60%;
     width: 100%;
     background-image: url(https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero-Desktop-M365-Icon-Bounce-Premium-Left?&resMode=sharp2&op_usm=1.5,0.65,15,0&wid=3840&hei=2160&qlt=85&fit=constrain&dpr=on,2);
